@@ -2,18 +2,9 @@
 
 A focused machine learning project based on the Kaggle Titanic dataset, dedicated to predicting passenger survival. This repository provides the complete workflow from data exploration to final prediction.
 
-## ✨ Project Highlights
-
-This project includes in-depth analysis and modeling:
-
-1.  **Exploratory Data Analysis (EDA):** Visual insights into the data's core relationships.
-2.  **Feature Engineering:** Strategic data preparation for optimal model performance.
-3.  **Predictive Modeling:** Training and evaluation of machine learning classifiers.
-4.  **Reporting:** Detailed metrics and final prediction generation.
-
 ## 📊 Key Visualizations & Reports
 
-The project uses visualizations to clearly illustrate the most impactful features:
+The project uses visualizations to clearly illustrate the most interesting features:
 
 | Visualization              | Description                                                            | Insight                                                       |
 | :------------------------- | :--------------------------------------------------------------------- | :------------------------------------------------------------ |
@@ -29,5 +20,5 @@ The project uses visualizations to clearly illustrate the most impactful feature
 Ensure you have the necessary libraries installed:
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+pip install requirements.txt
 ```
